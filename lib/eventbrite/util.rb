@@ -10,7 +10,8 @@ module Eventbrite
         access_codes: AccessCode,
         transfers: Transfer,
         teams: Team,
-        webhooks: Webhook
+        webhooks: Webhook,
+        ticket_classes: TicketClass,
         # 'balance' => Balance,
         # 'balance_transaction' => BalanceTransaction,
         # 'charge' => Charge,
